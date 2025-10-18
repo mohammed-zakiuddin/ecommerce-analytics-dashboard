@@ -1,0 +1,6 @@
+OrderID,OrderDate,CustomerID,ProductID,Quantity,Price,Platform,Status
+1001,2025-09-01,C001,P001,2,120,Amazon,Delivered
+1002,2025-09-02,C002,P003,1,250,Shopify,Cancelled
+1003,2025-09-03,C003,P002,3,90,Noon,Delivered
+1004,2025-09-04,C001,P004,1,300,Amazon,Returned
+1005,2025-09-05,C004,P001,2,120,Shopify,Delivered
