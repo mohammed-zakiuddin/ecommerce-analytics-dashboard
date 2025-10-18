@@ -1,0 +1,5 @@
+CustomerID,Name,Email,Location,SignupDate
+C001,Ali Khan,ali.k@example.com,Dubai,2025-01-15
+C002,Sara Malik,sara.m@example.com,Abu Dhabi,2025-03-22
+C003,Omar Zayed,omar.z@example.com,Sharjah,2025-02-10
+C004,Lina Yusuf,lina.y@example.com,Dubai,2025-04-05
